@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "twilightforest:ironwood_block"
+  },
+  "display": {
+    "block": "twilightforest:ironwood_block"
+  },
+  "categories": [
+    "ironwood"
+  ],
+  "growthModifier": 1
+}

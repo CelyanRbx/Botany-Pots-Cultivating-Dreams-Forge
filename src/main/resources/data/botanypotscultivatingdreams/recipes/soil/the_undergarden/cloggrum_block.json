@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "undergarden:cloggrum_block"
+  },
+  "display": {
+    "block": "undergarden:cloggrum_block"
+  },
+  "categories": [
+    "cloggrum"
+  ],
+  "growthModifier": 1
+}

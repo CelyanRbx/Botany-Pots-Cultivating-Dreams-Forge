@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:queens_slime_ingot"
+  },
+  "categories": [
+    "queens_slime"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tconstruct:queens_slime_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tconstruct:queens_slime_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

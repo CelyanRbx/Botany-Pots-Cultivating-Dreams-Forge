@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mtetm:enderfused_adamantium_ingot"
+  },
+  "categories": [
+    "enderfused_adamantium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mtetm:enderfused_adamantium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mtetm:enderfused_adamantium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

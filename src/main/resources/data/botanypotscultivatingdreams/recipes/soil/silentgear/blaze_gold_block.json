@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgear:blaze_gold_block"
+  },
+  "display": {
+    "block": "silentgear:blaze_gold_block"
+  },
+  "categories": [
+    "blaze_gold"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "botania:mana_diamond"
+  },
+  "categories": [
+    "mana_diamond"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "botania:mana_diamond_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "botania:mana_diamond"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

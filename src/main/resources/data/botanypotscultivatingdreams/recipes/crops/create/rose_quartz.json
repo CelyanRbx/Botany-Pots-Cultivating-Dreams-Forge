@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "create:rose_quartz"
+  },
+  "categories": [
+    "rose_quartz"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "create:rose_quartz_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "create:polished_rose_quartz"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

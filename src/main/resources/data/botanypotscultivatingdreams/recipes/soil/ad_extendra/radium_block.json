@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_extendra:radium_block"
+  },
+  "display": {
+    "block": "ad_extendra:radium_block"
+  },
+  "categories": [
+    "radium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "undergarden:forgotten_block"
+  },
+  "display": {
+    "block": "undergarden:forgotten_block"
+  },
+  "categories": [
+    "forgotten"
+  ],
+  "growthModifier": 1
+}

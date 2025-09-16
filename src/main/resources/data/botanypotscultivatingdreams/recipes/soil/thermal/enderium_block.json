@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:enderium_block"
+  },
+  "display": {
+    "block": "thermal:enderium_block"
+  },
+  "categories": [
+    "enderium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "samurai_dynasty:silver_block"
+  },
+  "display": {
+    "block": "samurai_dynasty:silver_block"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthModifier": 1
+}

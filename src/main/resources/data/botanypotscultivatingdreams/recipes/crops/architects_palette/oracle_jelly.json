@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "architects_palette:oracle_jelly"
+  },
+  "categories": [
+    "oracle_jelly"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "architects_palette:oracle_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "architects_palette:oracle_jelly"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:slimesteel_block"
+  },
+  "display": {
+    "block": "tconstruct:slimesteel_block"
+  },
+  "categories": [
+    "slimesteel"
+  ],
+  "growthModifier": 1
+}

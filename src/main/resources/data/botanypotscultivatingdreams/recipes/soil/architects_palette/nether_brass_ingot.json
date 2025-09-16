@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "architects_palette:nether_brass_block"
+  },
+  "display": {
+    "block": "architects_palette:nether_brass_block"
+  },
+  "categories": [
+    "nether_brass"
+  ],
+  "growthModifier": 1
+}

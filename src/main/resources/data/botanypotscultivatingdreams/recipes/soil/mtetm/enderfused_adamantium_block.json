@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mtetm:enderfused_adamantium_block"
+  },
+  "display": {
+    "block": "mtetm:enderfused_adamantium_block"
+  },
+  "categories": [
+    "enderfused_adamantium"
+  ],
+  "growthModifier": 1
+}

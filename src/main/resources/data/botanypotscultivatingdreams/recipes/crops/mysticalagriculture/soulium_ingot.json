@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagriculture:soulium_ingot"
+  },
+  "categories": [
+    "soulium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:soulium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:soulium_dust"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:soulium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:soulium_gemstone"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

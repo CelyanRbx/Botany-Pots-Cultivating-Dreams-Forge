@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "vintage:vanadium_block"
+  },
+  "display": {
+    "block": "vintage:vanadium_block"
+  },
+  "categories": [
+    "vanadium"
+  ],
+  "growthModifier": 1
+}

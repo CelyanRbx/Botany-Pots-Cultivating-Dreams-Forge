@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:electrum_ingot"
+  },
+  "categories": [
+    "electrum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:electrum_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:electrum_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

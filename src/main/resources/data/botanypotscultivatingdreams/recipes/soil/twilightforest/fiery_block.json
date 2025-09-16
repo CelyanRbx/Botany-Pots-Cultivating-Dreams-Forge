@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "twilightforest:fiery_block"
+  },
+  "display": {
+    "block": "twilightforest:fiery_block"
+  },
+  "categories": [
+    "fiery"
+  ],
+  "growthModifier": 1
+}

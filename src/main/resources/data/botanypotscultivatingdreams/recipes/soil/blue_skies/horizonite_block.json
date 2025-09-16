@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "blue_skies:horizonite_block"
+  },
+  "display": {
+    "block": "blue_skies:horizonite_block"
+  },
+  "categories": [
+    "horizonite"
+  ],
+  "growthModifier": 1
+}

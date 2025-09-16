@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "twilightforest:steeleaf_block"
+  },
+  "display": {
+    "block": "twilightforest:steeleaf_block"
+  },
+  "categories": [
+    "steeleaf"
+  ],
+  "growthModifier": 1
+}

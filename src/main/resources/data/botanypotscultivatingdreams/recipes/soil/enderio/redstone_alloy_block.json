@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:redstone_alloy_block"
+  },
+  "display": {
+    "block": "enderio:redstone_alloy_block"
+  },
+  "categories": [
+    "redstone_alloy"
+  ],
+  "growthModifier": 1
+}

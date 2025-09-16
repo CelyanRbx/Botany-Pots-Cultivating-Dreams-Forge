@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "architects_palette:cerebral_block"
+  },
+  "display": {
+    "block": "architects_palette:cerebral_block"
+  },
+  "categories": [
+    "cerebral_plate"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "enderio:vibrant_alloy_ingot"
+  },
+  "categories": [
+    "vibrant_alloy"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "enderio:vibrant_alloy_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "enderio:vibrant_alloy_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:sapphire_block"
+  },
+  "display": {
+    "block": "thermal:sapphire_block"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:iolite"
+  },
+  "categories": [
+    "iolite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_iolite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:iolite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

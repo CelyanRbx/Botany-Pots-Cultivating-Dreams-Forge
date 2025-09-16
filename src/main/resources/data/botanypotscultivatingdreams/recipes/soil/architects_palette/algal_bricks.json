@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "architects_palette:algal_bricks"
+  },
+  "display": {
+    "block": "architects_palette:algal_bricks"
+  },
+  "categories": [
+    "algal_brick"
+  ],
+  "growthModifier": 1
+}

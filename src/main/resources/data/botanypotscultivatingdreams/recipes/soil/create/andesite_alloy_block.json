@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "create:andesite_alloy_block"
+  },
+  "display": {
+    "block": "create:andesite_alloy_block"
+  },
+  "categories": [
+    "andesite_alloy"
+  ],
+  "growthModifier": 1
+}

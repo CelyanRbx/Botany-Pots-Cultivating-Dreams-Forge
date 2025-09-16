@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "create:industrial_iron_block"
+  },
+  "display": {
+    "block": "create:industrial_iron_block"
+  },
+  "categories": [
+    "industrial_iron"
+  ],
+  "growthModifier": 1
+}

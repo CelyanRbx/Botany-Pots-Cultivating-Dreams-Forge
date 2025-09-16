@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:energetic_alloy_block"
+  },
+  "display": {
+    "block": "enderio:energetic_alloy_block"
+  },
+  "categories": [
+    "energetic_alloy"
+  ],
+  "growthModifier": 1
+}

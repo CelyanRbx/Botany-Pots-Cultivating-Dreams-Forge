@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "create:andesite_alloy"
+  },
+  "categories": [
+    "andesite_alloy"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "create:andesite_alloy_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "create:andesite_alloy"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

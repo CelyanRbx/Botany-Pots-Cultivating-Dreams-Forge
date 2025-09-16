@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:steel_block"
+  },
+  "display": {
+    "block": "thermal:steel_block"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthModifier": 1
+}

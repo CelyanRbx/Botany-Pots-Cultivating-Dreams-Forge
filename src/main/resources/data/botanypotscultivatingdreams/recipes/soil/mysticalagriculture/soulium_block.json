@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagriculture:soulium_block"
+  },
+  "display": {
+    "block": "mysticalagriculture:soulium_block"
+  },
+  "categories": [
+    "soulium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:heliodor_block"
+  },
+  "display": {
+    "block": "silentgems:heliodor_block"
+  },
+  "categories": [
+    "heliodor"
+  ],
+  "growthModifier": 1
+}

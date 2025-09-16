@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "refinedstorage:quartz_enriched_iron_block"
+  },
+  "display": {
+    "block": "refinedstorage:quartz_enriched_iron_block"
+  },
+  "categories": [
+    "quartz_enriched_iron"
+  ],
+  "growthModifier": 1
+}

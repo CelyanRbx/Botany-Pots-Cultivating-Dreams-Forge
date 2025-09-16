@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "extendedcrafting:crystaltine_block"
+  },
+  "display": {
+    "block": "extendedcrafting:crystaltine_block"
+  },
+  "categories": [
+    "crystaltine"
+  ],
+  "growthModifier": 1
+}

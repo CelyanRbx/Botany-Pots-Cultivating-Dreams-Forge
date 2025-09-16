@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "allthemodium:unobtainium_allthemodium_alloy_block"
+  },
+  "display": {
+    "block": "allthemodium:unobtainium_allthemodium_alloy_block"
+  },
+  "categories": [
+    "unobtainium_allthemodium_alloy"
+  ],
+  "growthModifier": 1
+}

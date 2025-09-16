@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:soularium_block"
+  },
+  "display": {
+    "block": "enderio:soularium_block"
+  },
+  "categories": [
+    "soularium"
+  ],
+  "growthModifier": 1
+}

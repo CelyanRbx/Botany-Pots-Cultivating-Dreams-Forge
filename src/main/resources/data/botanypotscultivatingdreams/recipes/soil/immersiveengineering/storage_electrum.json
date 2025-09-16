@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_electrum"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_electrum"
+  },
+  "categories": [
+    "electrum"
+  ],
+  "growthModifier": 1
+}

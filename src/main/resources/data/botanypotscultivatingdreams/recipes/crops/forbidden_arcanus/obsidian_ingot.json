@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "forbidden_arcanus:obsidian_ingot"
+  },
+  "categories": [
+    "obsidian"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "forbidden_arcanus:processed_obsidian_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "forbidden_arcanus:obsidian_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

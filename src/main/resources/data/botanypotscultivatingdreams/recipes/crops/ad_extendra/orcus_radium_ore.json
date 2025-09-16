@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ad_astra:radium_ingot"
+  },
+  "categories": [
+    "radium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ad_astra:orcus_radium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ad_astra:radium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

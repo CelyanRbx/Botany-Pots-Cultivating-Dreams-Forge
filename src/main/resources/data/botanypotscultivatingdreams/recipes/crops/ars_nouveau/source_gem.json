@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ars_nouveau:source_gem"
+  },
+  "categories": [
+    "source_gem"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ars_nouveau:source_gem_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ars_nouveau:source_gem"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

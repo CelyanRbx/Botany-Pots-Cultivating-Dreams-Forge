@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:white_diamond_block"
+  },
+  "display": {
+    "block": "silentgems:white_diamond_block"
+  },
+  "categories": [
+    "white_diamond"
+  ],
+  "growthModifier": 1
+}

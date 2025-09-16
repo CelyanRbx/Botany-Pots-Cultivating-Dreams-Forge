@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:amethyst_bronze_block"
+  },
+  "display": {
+    "block": "tconstruct:amethyst_bronze_block"
+  },
+  "categories": [
+    "amethyst_bronze"
+  ],
+  "growthModifier": 1
+}

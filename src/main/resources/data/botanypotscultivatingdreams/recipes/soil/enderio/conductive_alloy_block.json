@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:conductive_alloy_block"
+  },
+  "display": {
+    "block": "enderio:conductive_alloy_block"
+  },
+  "categories": [
+    "conductive_alloy"
+  ],
+  "growthModifier": 1
+}

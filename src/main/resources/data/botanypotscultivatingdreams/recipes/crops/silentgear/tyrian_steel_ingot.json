@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgear:tyrian_steel_ingot"
+  },
+  "categories": [
+    "tyrian_steel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgear:tyrian_steel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgear:tyrian_steel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

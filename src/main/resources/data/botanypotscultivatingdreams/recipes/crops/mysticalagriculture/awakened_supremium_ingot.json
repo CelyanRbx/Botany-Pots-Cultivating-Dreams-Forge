@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagriculture:awakened_supremium_ingot"
+  },
+  "categories": [
+    "awakened_supremium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:awakened_supremium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:awakened_supremium_essence"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:awakened_supremium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:awakened_supremium_gemstone"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

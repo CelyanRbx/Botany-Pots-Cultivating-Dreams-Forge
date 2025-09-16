@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:hepatizon_block"
+  },
+  "display": {
+    "block": "tconstruct:hepatizon_block"
+  },
+  "categories": [
+    "hepatizon"
+  ],
+  "growthModifier": 1
+}

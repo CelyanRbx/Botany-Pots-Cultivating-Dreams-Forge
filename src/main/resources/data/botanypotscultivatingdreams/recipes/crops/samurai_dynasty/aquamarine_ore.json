@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "samurai_dynasty:aquamarine"
+  },
+  "categories": [
+    "aquamarine"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "samurai_dynasty:aquamarine_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "samurai_dynasty:aquamarine"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

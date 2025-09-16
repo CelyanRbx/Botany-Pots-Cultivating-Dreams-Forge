@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "architects_palette:wardstone"
+  },
+  "display": {
+    "block": "architects_palette:wardstone"
+  },
+  "categories": [
+    "wardstone_brick"
+  ],
+  "growthModifier": 1
+}

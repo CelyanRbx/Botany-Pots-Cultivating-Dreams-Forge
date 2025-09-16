@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagriculture:prudentium_block"
+  },
+  "display": {
+    "block": "mysticalagriculture:prudentium_block"
+  },
+  "categories": [
+    "prudentium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:carnelian"
+  },
+  "categories": [
+    "carnelian"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_carnelian_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:carnelian"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "fluxnetworks:flux_block"
+  },
+  "display": {
+    "block": "fluxnetworks:flux_block"
+  },
+  "categories": [
+    "flux_dust"
+  ],
+  "growthModifier": 1
+}

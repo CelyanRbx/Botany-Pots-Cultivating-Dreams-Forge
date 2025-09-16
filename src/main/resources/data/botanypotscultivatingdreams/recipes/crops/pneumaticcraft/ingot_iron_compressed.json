@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pneumaticcraft:ingot_iron_compressed"
+  },
+  "categories": [
+    "compressed_iron"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "pneumaticcraft:compressed_iron_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "pneumaticcraft:ingot_iron_compressed"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

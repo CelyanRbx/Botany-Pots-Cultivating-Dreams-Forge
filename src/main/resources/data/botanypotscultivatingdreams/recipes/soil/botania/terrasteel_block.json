@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:terrasteel_block"
+  },
+  "display": {
+    "block": "botania:terrasteel_block"
+  },
+  "categories": [
+    "terrasteel"
+  ],
+  "growthModifier": 1
+}

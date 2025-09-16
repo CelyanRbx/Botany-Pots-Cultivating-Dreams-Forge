@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:carnelian_block"
+  },
+  "display": {
+    "block": "silentgems:carnelian_block"
+  },
+  "categories": [
+    "carnelian"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:steel_block"
+  },
+  "display": {
+    "block": "tconstruct:steel_block"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthModifier": 1
+}

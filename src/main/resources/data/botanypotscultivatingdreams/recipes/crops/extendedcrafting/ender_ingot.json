@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "extendedcrafting:ender_ingot"
+  },
+  "categories": [
+    "ender_ingot"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "extendedcrafting:ender_ingot_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "extendedcrafting:ender_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

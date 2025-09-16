@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagriculture:imperium_ingot"
+  },
+  "categories": [
+    "imperium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:imperium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:imperium_essence"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:imperium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:imperium_gemstone"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

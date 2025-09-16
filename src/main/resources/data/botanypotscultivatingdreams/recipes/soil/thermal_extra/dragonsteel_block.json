@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal_extra:dragonsteel_block"
+  },
+  "display": {
+    "block": "thermal_extra:dragonsteel_block"
+  },
+  "categories": [
+    "dragonsteel"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:cinderslime_block"
+  },
+  "display": {
+    "block": "tconstruct:cinderslime_block"
+  },
+  "categories": [
+    "cinderslime"
+  ],
+  "growthModifier": 1
+}

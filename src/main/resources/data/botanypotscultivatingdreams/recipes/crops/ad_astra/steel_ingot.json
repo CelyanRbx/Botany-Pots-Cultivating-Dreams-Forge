@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ad_astra:steel_ingot"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ad_astra:steel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ad_astra:steel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

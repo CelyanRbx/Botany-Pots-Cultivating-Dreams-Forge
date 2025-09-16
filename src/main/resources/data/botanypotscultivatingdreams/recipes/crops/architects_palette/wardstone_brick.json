@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "architects_palette:wardstone_brick"
+  },
+  "categories": [
+    "wardstone_brick"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "architects_palette:wardstone"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "architects_palette:wardstone_brick"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

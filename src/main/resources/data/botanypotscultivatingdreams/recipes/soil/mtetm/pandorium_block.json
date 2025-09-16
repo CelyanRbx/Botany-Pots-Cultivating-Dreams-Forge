@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mtetm:pandorium_block"
+  },
+  "display": {
+    "block": "mtetm:pandorium_block"
+  },
+  "categories": [
+    "pandorium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "architects_palette:unobtanium"
+  },
+  "categories": [
+    "unobtanium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "architects_palette:unobtanium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "architects_palette:unobtanium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

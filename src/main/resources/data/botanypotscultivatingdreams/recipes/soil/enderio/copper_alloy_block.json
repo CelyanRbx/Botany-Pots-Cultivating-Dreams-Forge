@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:copper_alloy_block"
+  },
+  "display": {
+    "block": "enderio:copper_alloy_block"
+  },
+  "categories": [
+    "copper_alloy"
+  ],
+  "growthModifier": 1
+}

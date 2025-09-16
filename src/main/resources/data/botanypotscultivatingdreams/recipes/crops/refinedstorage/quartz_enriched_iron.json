@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "refinedstorage:quartz_enriched_iron"
+  },
+  "categories": [
+    "quartz_enriched_iron"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "refinedstorage:quartz_enriched_iron_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "refinedstorage:quartz_enriched_iron"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

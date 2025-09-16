@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "samurai_dynasty:jade_block"
+  },
+  "display": {
+    "block": "samurai_dynasty:jade_block"
+  },
+  "categories": [
+    "jade"
+  ],
+  "growthModifier": 1
+}

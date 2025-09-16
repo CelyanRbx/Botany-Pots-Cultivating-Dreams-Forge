@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal_extra:shellite_block"
+  },
+  "display": {
+    "block": "thermal_extra:shellite_block"
+  },
+  "categories": [
+    "shellite"
+  ],
+  "growthModifier": 1
+}

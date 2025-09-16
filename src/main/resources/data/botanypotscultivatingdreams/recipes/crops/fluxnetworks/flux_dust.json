@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "fluxnetworks:flux_dust"
+  },
+  "categories": [
+    "flux_dust"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "fluxnetworks:flux_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "fluxnetworks:flux_dust"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

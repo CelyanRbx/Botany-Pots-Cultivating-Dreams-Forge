@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ae2:silicon"
+  },
+  "categories": [
+    "silicon"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "expatternprovider:silicon_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ae2:silicon"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

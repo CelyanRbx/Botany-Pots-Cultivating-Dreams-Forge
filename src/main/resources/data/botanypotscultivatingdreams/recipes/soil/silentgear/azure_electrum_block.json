@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgear:azure_electrum_block"
+  },
+  "display": {
+    "block": "silentgear:azure_electrum_block"
+  },
+  "categories": [
+    "azure_electrum"
+  ],
+  "growthModifier": 1
+}

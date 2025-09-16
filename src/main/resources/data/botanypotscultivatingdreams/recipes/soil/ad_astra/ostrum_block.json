@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_astra:ostrum_block"
+  },
+  "display": {
+    "block": "ad_astra:ostrum_block"
+  },
+  "categories": [
+    "ostrum"
+  ],
+  "growthModifier": 1
+}

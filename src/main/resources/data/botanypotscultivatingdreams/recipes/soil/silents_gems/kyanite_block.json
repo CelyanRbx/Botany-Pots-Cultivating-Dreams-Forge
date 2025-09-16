@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:kyanite_block"
+  },
+  "display": {
+    "block": "silentgems:kyanite_block"
+  },
+  "categories": [
+    "kyanite"
+  ],
+  "growthModifier": 1
+}

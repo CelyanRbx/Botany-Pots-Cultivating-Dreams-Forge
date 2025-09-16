@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:moldavite"
+  },
+  "categories": [
+    "moldavite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_moldavite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:moldavite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

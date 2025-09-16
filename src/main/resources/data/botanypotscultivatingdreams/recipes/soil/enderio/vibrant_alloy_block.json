@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:vibrant_alloy_block"
+  },
+  "display": {
+    "block": "enderio:vibrant_alloy_block"
+  },
+  "categories": [
+    "vibrant_alloy"
+  ],
+  "growthModifier": 1
+}

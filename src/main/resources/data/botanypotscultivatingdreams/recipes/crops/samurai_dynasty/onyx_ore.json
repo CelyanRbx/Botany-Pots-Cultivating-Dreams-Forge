@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "samurai_dynasty:onyx"
+  },
+  "categories": [
+    "onyx"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "samurai_dynasty:onyx_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "samurai_dynasty:onyx"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

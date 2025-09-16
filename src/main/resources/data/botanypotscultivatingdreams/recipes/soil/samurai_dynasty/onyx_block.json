@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "samurai_dynasty:onyx_block"
+  },
+  "display": {
+    "block": "samurai_dynasty:onyx_block"
+  },
+  "categories": [
+    "onyx"
+  ],
+  "growthModifier": 1
+}

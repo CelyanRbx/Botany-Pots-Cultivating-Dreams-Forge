@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:citrine"
+  },
+  "categories": [
+    "citrine"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_citrine_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:citrine"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

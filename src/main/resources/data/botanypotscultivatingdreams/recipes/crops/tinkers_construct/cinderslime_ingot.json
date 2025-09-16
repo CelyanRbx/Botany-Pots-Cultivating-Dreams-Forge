@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:cinderslime_ingot"
+  },
+  "categories": [
+    "cinderslime"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tconstruct:cinderslime_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tconstruct:cinderslime_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

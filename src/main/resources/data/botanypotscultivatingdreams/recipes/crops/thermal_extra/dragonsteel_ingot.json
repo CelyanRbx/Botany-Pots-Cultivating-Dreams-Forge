@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal_extra:dragonsteel_ingot"
+  },
+  "categories": [
+    "dragonsteel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal_extra:dragonsteel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal_extra:dragonsteel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

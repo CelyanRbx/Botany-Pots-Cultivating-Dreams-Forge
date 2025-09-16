@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:signalum_ingot"
+  },
+  "categories": [
+    "signalum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:signalum_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:signalum_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

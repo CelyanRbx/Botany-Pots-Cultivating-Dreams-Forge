@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal_extra:twinite_block"
+  },
+  "display": {
+    "block": "thermal_extra:twinite_block"
+  },
+  "categories": [
+    "twinite"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:alexandrite"
+  },
+  "categories": [
+    "alexandrite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_alexandrite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:alexandrite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

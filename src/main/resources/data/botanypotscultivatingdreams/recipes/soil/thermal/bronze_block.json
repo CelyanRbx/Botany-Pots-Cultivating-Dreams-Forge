@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:bronze_block"
+  },
+  "display": {
+    "block": "thermal:bronze_block"
+  },
+  "categories": [
+    "bronze"
+  ],
+  "growthModifier": 1
+}

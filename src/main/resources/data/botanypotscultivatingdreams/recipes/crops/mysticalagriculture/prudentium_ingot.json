@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagriculture:prudentium_ingot"
+  },
+  "categories": [
+    "prudentium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:prudentium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:prudentium_essence"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:prudentium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:prudentium_gemstone"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

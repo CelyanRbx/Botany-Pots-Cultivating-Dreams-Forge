@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:citrine_block"
+  },
+  "display": {
+    "block": "silentgems:citrine_block"
+  },
+  "categories": [
+    "citrine"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:pulsating_alloy_block"
+  },
+  "display": {
+    "block": "enderio:pulsating_alloy_block"
+  },
+  "categories": [
+    "pulsating_alloy"
+  ],
+  "growthModifier": 1
+}

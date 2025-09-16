@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:sapphire_block"
+  },
+  "display": {
+    "block": "silentgems:sapphire_block"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthModifier": 1
+}

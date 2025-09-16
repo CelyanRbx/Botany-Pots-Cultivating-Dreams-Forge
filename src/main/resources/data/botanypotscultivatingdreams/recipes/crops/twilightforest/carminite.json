@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "twilightforest:carminite"
+  },
+  "categories": [
+    "carminite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "twilightforest:carminite_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "twilightforest:carminite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

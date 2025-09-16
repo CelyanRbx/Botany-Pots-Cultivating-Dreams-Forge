@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderio:dark_steel_block"
+  },
+  "display": {
+    "block": "enderio:dark_steel_block"
+  },
+  "categories": [
+    "dark_steel"
+  ],
+  "growthModifier": 1
+}

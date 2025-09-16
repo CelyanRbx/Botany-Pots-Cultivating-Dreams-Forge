@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:electrum_block"
+  },
+  "display": {
+    "block": "thermal:electrum_block"
+  },
+  "categories": [
+    "electrum"
+  ],
+  "growthModifier": 1
+}

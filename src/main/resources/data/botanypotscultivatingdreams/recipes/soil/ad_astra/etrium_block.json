@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_astra:etrium_block"
+  },
+  "display": {
+    "block": "ad_astra:etrium_block"
+  },
+  "categories": [
+    "etrium"
+  ],
+  "growthModifier": 1
+}

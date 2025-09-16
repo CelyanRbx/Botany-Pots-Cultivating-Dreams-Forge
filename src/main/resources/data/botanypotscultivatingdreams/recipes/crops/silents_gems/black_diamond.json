@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:black_diamond"
+  },
+  "categories": [
+    "black_diamond"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_black_diamond_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:black_diamond"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

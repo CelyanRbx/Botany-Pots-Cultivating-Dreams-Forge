@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "undergarden:utherium_block"
+  },
+  "display": {
+    "block": "undergarden:utherium_block"
+  },
+  "categories": [
+    "utherium"
+  ],
+  "growthModifier": 1
+}

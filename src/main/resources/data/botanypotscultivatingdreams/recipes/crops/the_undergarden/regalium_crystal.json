@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "undergarden:regalium_crystal"
+  },
+  "categories": [
+    "regalium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "undergarden:regalium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "undergarden:regalium_crystal"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

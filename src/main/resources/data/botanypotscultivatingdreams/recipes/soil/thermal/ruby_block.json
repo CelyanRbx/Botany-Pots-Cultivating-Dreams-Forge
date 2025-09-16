@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:ruby_block"
+  },
+  "display": {
+    "block": "thermal:ruby_block"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthModifier": 1
+}

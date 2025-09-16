@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:steel_ingot"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alltheores:steel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alltheores:steel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

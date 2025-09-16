@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:bronze_ingot"
+  },
+  "categories": [
+    "bronze"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:bronze_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:bronze_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

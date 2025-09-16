@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:peridot_block"
+  },
+  "display": {
+    "block": "silentgems:peridot_block"
+  },
+  "categories": [
+    "peridot"
+  ],
+  "growthModifier": 1
+}

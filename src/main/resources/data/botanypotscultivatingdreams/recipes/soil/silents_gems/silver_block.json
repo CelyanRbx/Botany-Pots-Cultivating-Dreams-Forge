@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:silver_block"
+  },
+  "display": {
+    "block": "silentgems:silver_block"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthModifier": 1
+}

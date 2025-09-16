@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal_extra:soul_infused_block"
+  },
+  "display": {
+    "block": "thermal_extra:soul_infused_block"
+  },
+  "categories": [
+    "soul_infused"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:lumium_block"
+  },
+  "display": {
+    "block": "alltheores:lumium_block"
+  },
+  "categories": [
+    "lumium"
+  ],
+  "growthModifier": 1
+}

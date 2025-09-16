@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:brass_block"
+  },
+  "display": {
+    "block": "alltheores:brass_block"
+  },
+  "categories": [
+    "brass"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:manyullyn_block"
+  },
+  "display": {
+    "block": "tconstruct:manyullyn_block"
+  },
+  "categories": [
+    "manyullyn"
+  ],
+  "growthModifier": 1
+}

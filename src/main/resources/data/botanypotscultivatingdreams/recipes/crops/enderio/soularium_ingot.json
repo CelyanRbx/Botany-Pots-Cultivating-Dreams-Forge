@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "enderio:soularium_ingot"
+  },
+  "categories": [
+    "soularium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "enderio:soularium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "enderio:soularium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

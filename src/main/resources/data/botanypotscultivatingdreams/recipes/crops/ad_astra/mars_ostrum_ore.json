@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ad_astra:ostrum_ingot"
+  },
+  "categories": [
+    "ostrum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ad_astra:mars_ostrum_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ad_astra:ostrum_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

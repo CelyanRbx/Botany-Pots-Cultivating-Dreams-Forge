@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagradditions:insanium_ingot"
+  },
+  "categories": [
+    "insanium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagradditions:insanium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagradditions:insanium_essence"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagradditions:insanium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagradditions:insanium_gemstone"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:amethyst_bronze_ingot"
+  },
+  "categories": [
+    "amethyst_bronze"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tconstruct:amethyst_bronze_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tconstruct:amethyst_bronze_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

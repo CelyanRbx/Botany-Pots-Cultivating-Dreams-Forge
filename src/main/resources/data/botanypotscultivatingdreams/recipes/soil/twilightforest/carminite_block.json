@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "twilightforest:carminite_block"
+  },
+  "display": {
+    "block": "twilightforest:carminite_block"
+  },
+  "categories": [
+    "carminite"
+  ],
+  "growthModifier": 1
+}

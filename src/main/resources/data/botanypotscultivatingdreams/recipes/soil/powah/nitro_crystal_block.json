@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "powah:nitro_crystal_block"
+  },
+  "display": {
+    "block": "powah:nitro_crystal_block"
+  },
+  "categories": [
+    "crystal_nitro"
+  ],
+  "growthModifier": 1
+}

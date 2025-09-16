@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:invar_ingot"
+  },
+  "categories": [
+    "invar"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alltheores:invar_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alltheores:invar_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

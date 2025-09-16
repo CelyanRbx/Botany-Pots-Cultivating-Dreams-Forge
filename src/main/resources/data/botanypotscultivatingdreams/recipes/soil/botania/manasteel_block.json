@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:manasteel_block"
+  },
+  "display": {
+    "block": "botania:manasteel_block"
+  },
+  "categories": [
+    "manasteel"
+  ],
+  "growthModifier": 1
+}

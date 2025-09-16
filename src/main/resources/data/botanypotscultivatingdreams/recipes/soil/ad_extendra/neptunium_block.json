@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_extendra:neptunium_block"
+  },
+  "display": {
+    "block": "ad_extendra:neptunium_block"
+  },
+  "categories": [
+    "neptunium"
+  ],
+  "growthModifier": 1
+}

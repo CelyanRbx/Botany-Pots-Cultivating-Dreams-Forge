@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ae2:fluix_block"
+  },
+  "display": {
+    "block": "ae2:fluix_block"
+  },
+  "categories": [
+    "fluix_crystal"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "powah:spirited_crystal_block"
+  },
+  "display": {
+    "block": "powah:spirited_crystal_block"
+  },
+  "categories": [
+    "crystal_spirited"
+  ],
+  "growthModifier": 1
+}

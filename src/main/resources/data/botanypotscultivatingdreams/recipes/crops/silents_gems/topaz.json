@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:topaz"
+  },
+  "categories": [
+    "topaz"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_topaz_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:topaz"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

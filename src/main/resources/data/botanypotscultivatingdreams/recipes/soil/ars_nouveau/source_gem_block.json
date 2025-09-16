@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ars_nouveau:source_gem_block"
+  },
+  "display": {
+    "block": "ars_nouveau:source_gem_block"
+  },
+  "categories": [
+    "source_gem"
+  ],
+  "growthModifier": 1
+}

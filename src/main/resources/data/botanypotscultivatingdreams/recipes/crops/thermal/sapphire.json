@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:sapphire"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:sapphire_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:sapphire"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

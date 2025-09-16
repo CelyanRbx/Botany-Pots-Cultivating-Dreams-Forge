@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "samurai_dynasty:aquamarine_block"
+  },
+  "display": {
+    "block": "samurai_dynasty:aquamarine_block"
+  },
+  "categories": [
+    "aquamarine"
+  ],
+  "growthModifier": 1
+}

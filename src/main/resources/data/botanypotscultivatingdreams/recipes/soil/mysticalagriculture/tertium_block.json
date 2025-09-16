@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagriculture:tertium_block"
+  },
+  "display": {
+    "block": "mysticalagriculture:tertium_block"
+  },
+  "categories": [
+    "tertium"
+  ],
+  "growthModifier": 1
+}

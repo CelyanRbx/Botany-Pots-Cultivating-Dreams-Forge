@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "allthemodium:vibranium_allthemodium_alloy_block"
+  },
+  "display": {
+    "block": "allthemodium:vibranium_allthemodium_alloy_block"
+  },
+  "categories": [
+    "vibranium_allthemodium_alloy"
+  ],
+  "growthModifier": 1
+}

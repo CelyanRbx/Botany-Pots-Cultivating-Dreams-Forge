@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "powah:crystal_nitro"
+  },
+  "categories": [
+    "crystal_nitro"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "powah:nitro_crystal_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "powah:crystal_nitro"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

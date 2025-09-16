@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:turquoise_block"
+  },
+  "display": {
+    "block": "silentgems:turquoise_block"
+  },
+  "categories": [
+    "turquoise"
+  ],
+  "growthModifier": 1
+}

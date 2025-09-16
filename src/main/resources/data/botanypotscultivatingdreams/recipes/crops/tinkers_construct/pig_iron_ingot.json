@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:pig_iron_ingot"
+  },
+  "categories": [
+    "pig_iron"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tconstruct:pig_iron_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tconstruct:pig_iron_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

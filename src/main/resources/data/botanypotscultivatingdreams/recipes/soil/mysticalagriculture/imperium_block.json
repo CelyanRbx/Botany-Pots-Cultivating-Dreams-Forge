@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagriculture:imperium_block"
+  },
+  "display": {
+    "block": "mysticalagriculture:imperium_block"
+  },
+  "categories": [
+    "imperium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:lumium_block"
+  },
+  "display": {
+    "block": "thermal:lumium_block"
+  },
+  "categories": [
+    "lumium"
+  ],
+  "growthModifier": 1
+}

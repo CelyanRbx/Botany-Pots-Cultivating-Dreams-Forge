@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "immersiveengineering:ingot_constantan"
+  },
+  "categories": [
+    "constantan"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "immersiveengineering:storage_constantan"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "immersiveengineering:ingot_constantan"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

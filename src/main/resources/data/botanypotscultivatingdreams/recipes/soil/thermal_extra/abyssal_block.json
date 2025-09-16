@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal_extra:abyssal_block"
+  },
+  "display": {
+    "block": "thermal_extra:abyssal_block"
+  },
+  "categories": [
+    "abyssal"
+  ],
+  "growthModifier": 1
+}

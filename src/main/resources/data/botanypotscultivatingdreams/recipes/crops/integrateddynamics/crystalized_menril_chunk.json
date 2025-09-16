@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "integrateddynamics:crystalized_menril_chunk"
+  },
+  "categories": [
+    "menril"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "integrateddynamics:menril_log_filled"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "integrateddynamics:crystalized_menril_chunk"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

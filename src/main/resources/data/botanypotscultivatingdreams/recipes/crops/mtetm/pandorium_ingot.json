@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mtetm:pandorium_ingot"
+  },
+  "categories": [
+    "pandorium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mtetm:pandorium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mtetm:pandorium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_extendra:juperium_block"
+  },
+  "display": {
+    "block": "ad_extendra:juperium_block"
+  },
+  "categories": [
+    "juperium"
+  ],
+  "growthModifier": 1
+}

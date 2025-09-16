@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:invar_block"
+  },
+  "display": {
+    "block": "alltheores:invar_block"
+  },
+  "categories": [
+    "invar"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:pig_iron_block"
+  },
+  "display": {
+    "block": "tconstruct:pig_iron_block"
+  },
+  "categories": [
+    "pig_iron"
+  ],
+  "growthModifier": 1
+}

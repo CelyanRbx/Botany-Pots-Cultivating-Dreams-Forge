@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_refined_obsidian"
+  },
+  "display": {
+    "block": "mekanism:block_refined_obsidian"
+  },
+  "categories": [
+    "refined_obsidian"
+  ],
+  "growthModifier": 1
+}

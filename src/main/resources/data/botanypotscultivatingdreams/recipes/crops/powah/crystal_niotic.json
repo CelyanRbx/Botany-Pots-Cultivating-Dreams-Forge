@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "powah:crystal_niotic"
+  },
+  "categories": [
+    "crystal_niotic"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "powah:niotic_crystal_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "powah:crystal_niotic"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

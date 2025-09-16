@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:moldavite_block"
+  },
+  "display": {
+    "block": "silentgems:moldavite_block"
+  },
+  "categories": [
+    "moldavite"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_constantan"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_constantan"
+  },
+  "categories": [
+    "constantan"
+  ],
+  "growthModifier": 1
+}

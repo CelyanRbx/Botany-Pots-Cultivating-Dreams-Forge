@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:slimesteel_ingot"
+  },
+  "categories": [
+    "slimesteel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tconstruct:slimesteel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tconstruct:slimesteel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

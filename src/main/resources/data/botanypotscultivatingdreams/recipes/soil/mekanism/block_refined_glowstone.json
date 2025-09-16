@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_refined_glowstone"
+  },
+  "display": {
+    "block": "mekanism:block_refined_glowstone"
+  },
+  "categories": [
+    "refined_glowstone"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "undergarden:froststeel_block"
+  },
+  "display": {
+    "block": "undergarden:froststeel_block"
+  },
+  "categories": [
+    "froststeel"
+  ],
+  "growthModifier": 1
+}

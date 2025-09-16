@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "expatternprovider:silicon_block"
+  },
+  "display": {
+    "block": "expatternprovider:silicon_block"
+  },
+  "categories": [
+    "silicon"
+  ],
+  "growthModifier": 1
+}

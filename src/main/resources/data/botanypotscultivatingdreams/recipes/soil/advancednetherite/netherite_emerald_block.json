@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "advancednetherite:netherite_emerald_block"
+  },
+  "display": {
+    "block": "advancednetherite:netherite_emerald_block"
+  },
+  "categories": [
+    "netherite_emerald"
+  ],
+  "growthModifier": 1
+}

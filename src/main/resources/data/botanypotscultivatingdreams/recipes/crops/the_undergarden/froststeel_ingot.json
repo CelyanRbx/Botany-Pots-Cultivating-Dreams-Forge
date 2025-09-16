@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "undergarden:froststeel_ingot"
+  },
+  "categories": [
+    "froststeel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "undergarden:froststeel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "undergarden:froststeel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

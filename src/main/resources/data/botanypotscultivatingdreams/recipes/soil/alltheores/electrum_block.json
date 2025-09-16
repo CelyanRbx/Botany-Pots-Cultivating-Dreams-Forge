@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:electrum_block"
+  },
+  "display": {
+    "block": "alltheores:electrum_block"
+  },
+  "categories": [
+    "electrum"
+  ],
+  "growthModifier": 1
+}

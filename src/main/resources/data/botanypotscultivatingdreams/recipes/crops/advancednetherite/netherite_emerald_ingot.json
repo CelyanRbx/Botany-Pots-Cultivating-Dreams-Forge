@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "advancednetherite:netherite_emerald_ingot"
+  },
+  "categories": [
+    "netherite_emerald"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "advancednetherite:netherite_emerald_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "advancednetherite:netherite_emerald_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

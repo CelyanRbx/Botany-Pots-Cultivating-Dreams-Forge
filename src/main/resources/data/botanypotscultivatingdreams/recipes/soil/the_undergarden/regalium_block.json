@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "undergarden:regalium_block"
+  },
+  "display": {
+    "block": "undergarden:regalium_block"
+  },
+  "categories": [
+    "regalium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_bronze"
+  },
+  "display": {
+    "block": "mekanism:block_bronze"
+  },
+  "categories": [
+    "bronze"
+  ],
+  "growthModifier": 1
+}

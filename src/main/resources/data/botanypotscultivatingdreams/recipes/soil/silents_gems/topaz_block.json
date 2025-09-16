@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:topaz_block"
+  },
+  "display": {
+    "block": "silentgems:topaz_block"
+  },
+  "categories": [
+    "topaz"
+  ],
+  "growthModifier": 1
+}

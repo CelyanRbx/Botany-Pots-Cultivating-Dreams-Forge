@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgems:kyanite"
+  },
+  "categories": [
+    "kyanite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "silentgems:deesplate_kyanite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "silentgems:kyanite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

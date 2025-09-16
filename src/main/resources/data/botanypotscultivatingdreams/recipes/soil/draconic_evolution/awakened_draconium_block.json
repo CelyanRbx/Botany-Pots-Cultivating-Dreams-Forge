@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "draconicevolution:awakened_draconium_block"
+  },
+  "display": {
+    "block": "draconicevolution:awakened_draconium_block"
+  },
+  "categories": [
+    "awakened_draconium"
+  ],
+  "growthModifier": 1
+}

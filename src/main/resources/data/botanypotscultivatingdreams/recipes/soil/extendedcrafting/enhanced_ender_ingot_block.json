@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "extendedcrafting:enhanced_ender_ingot_block"
+  },
+  "display": {
+    "block": "extendedcrafting:enhanced_ender_ingot_block"
+  },
+  "categories": [
+    "enhanced_ender_ingot"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "forbidden_arcanus:deorum_block"
+  },
+  "display": {
+    "block": "forbidden_arcanus:deorum_block"
+  },
+  "categories": [
+    "deorum"
+  ],
+  "growthModifier": 1
+}

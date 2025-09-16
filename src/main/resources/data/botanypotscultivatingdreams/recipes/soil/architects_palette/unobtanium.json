@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "architects_palette:unobtanium_block"
+  },
+  "display": {
+    "block": "architects_palette:unobtanium_block"
+  },
+  "categories": [
+    "unobtanium"
+  ],
+  "growthModifier": 1
+}

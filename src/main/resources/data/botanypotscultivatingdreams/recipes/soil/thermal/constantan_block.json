@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:constantan_block"
+  },
+  "display": {
+    "block": "thermal:constantan_block"
+  },
+  "categories": [
+    "constantan"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:ruby_block"
+  },
+  "display": {
+    "block": "silentgems:ruby_block"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthModifier": 1
+}

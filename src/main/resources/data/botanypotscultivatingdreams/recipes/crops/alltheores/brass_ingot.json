@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:brass_ingot"
+  },
+  "categories": [
+    "brass"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alltheores:brass_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alltheores:brass_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "integrateddynamics:crystalized_menril_block"
+  },
+  "display": {
+    "block": "integrateddynamics:crystalized_menril_block"
+  },
+  "categories": [
+    "menril"
+  ],
+  "growthModifier": 1
+}

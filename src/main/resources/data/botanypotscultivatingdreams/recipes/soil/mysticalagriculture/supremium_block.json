@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagriculture:supremium_block"
+  },
+  "display": {
+    "block": "mysticalagriculture:supremium_block"
+  },
+  "categories": [
+    "supremium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_astra:steel_block"
+  },
+  "display": {
+    "block": "ad_astra:steel_block"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthModifier": 1
+}

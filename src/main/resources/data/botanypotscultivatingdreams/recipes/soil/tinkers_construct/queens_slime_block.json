@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:queens_slime_block"
+  },
+  "display": {
+    "block": "tconstruct:queens_slime_block"
+  },
+  "categories": [
+    "queens_slime"
+  ],
+  "growthModifier": 1
+}

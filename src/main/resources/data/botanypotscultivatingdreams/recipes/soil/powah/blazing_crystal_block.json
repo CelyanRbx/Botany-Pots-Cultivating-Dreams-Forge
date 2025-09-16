@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "powah:blazing_crystal_block"
+  },
+  "display": {
+    "block": "powah:blazing_crystal_block"
+  },
+  "categories": [
+    "crystal_blazing"
+  ],
+  "growthModifier": 1
+}

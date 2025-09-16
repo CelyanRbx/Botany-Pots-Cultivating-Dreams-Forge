@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:signalum_block"
+  },
+  "display": {
+    "block": "thermal:signalum_block"
+  },
+  "categories": [
+    "signalum"
+  ],
+  "growthModifier": 1
+}

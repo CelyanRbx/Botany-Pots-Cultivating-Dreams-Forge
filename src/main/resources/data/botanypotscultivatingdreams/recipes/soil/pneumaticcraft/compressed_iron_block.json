@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pneumaticcraft:compressed_iron_block"
+  },
+  "display": {
+    "block": "pneumaticcraft:compressed_iron_block"
+  },
+  "categories": [
+    "compressed_iron"
+  ],
+  "growthModifier": 1
+}

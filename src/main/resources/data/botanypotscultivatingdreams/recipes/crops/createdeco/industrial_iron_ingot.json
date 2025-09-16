@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "createdeco:industrial_iron_ingot"
+  },
+  "categories": [
+    "industrial_iron"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "create:industrial_iron_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "createdeco:industrial_iron_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

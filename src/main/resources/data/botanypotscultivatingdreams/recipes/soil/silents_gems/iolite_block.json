@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:iolite_block"
+  },
+  "display": {
+    "block": "silentgems:iolite_block"
+  },
+  "categories": [
+    "iolite"
+  ],
+  "growthModifier": 1
+}

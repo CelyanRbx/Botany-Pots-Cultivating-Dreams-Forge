@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "forbidden_arcanus:processed_obsidian_block"
+  },
+  "display": {
+    "block": "forbidden_arcanus:processed_obsidian_block"
+  },
+  "categories": [
+    "obsidian"
+  ],
+  "growthModifier": 1
+}

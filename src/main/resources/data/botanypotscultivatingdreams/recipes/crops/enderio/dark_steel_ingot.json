@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "enderio:dark_steel_ingot"
+  },
+  "categories": [
+    "dark_steel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "enderio:dark_steel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "enderio:dark_steel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

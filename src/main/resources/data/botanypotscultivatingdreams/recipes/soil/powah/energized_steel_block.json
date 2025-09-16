@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "powah:energized_steel_block"
+  },
+  "display": {
+    "block": "powah:energized_steel_block"
+  },
+  "categories": [
+    "steel_energized"
+  ],
+  "growthModifier": 1
+}

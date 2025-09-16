@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "twilightforest:knightmetal_block"
+  },
+  "display": {
+    "block": "twilightforest:knightmetal_block"
+  },
+  "categories": [
+    "knightmetal"
+  ],
+  "growthModifier": 1
+}

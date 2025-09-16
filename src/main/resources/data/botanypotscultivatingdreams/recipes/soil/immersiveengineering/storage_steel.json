@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_steel"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_steel"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthModifier": 1
+}

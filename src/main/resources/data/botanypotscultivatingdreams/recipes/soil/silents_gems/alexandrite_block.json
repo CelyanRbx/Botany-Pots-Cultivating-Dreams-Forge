@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgems:alexandrite_block"
+  },
+  "display": {
+    "block": "silentgems:alexandrite_block"
+  },
+  "categories": [
+    "alexandrite"
+  ],
+  "growthModifier": 1
+}

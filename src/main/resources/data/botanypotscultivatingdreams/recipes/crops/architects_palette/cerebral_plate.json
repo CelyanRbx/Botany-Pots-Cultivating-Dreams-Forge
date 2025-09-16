@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "architects_palette:cerebral_plate"
+  },
+  "categories": [
+    "cerebral_plate"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "architects_palette:cerebral_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "architects_palette:cerebral_plate"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

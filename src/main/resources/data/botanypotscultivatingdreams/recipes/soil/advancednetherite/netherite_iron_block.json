@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "advancednetherite:netherite_iron_block"
+  },
+  "display": {
+    "block": "advancednetherite:netherite_iron_block"
+  },
+  "categories": [
+    "netherite_iron"
+  ],
+  "growthModifier": 1
+}

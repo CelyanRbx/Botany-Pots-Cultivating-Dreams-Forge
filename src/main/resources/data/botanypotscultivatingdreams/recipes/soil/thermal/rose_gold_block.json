@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:rose_gold_block"
+  },
+  "display": {
+    "block": "thermal:rose_gold_block"
+  },
+  "categories": [
+    "rose_gold"
+  ],
+  "growthModifier": 1
+}

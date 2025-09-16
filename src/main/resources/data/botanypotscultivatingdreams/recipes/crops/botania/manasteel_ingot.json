@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "botania:manasteel_ingot"
+  },
+  "categories": [
+    "manasteel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "botania:manasteel_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "botania:manasteel_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

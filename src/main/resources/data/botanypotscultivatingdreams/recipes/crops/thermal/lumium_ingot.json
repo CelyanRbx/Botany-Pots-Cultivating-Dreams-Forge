@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:lumium_ingot"
+  },
+  "categories": [
+    "lumium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:lumium_block"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:lumium_ingot"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

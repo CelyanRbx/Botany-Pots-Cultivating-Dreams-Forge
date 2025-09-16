@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "create:rose_quartz_block"
+  },
+  "display": {
+    "block": "create:rose_quartz_block"
+  },
+  "categories": [
+    "rose_quartz"
+  ],
+  "growthModifier": 1
+}
